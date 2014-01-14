@@ -1,0 +1,12 @@
+[Bb]in/
+[Oo]bj/
+CommonAssemblyInfo.cs
+*.csproj.user
+*.suo
+# Resharper
+_ReSharper.*
+*.ReSharper.user
+*.DotSettings.user
+.idea/*
+.DS_Store
+*.csproj.DotSettings.user
